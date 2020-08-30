@@ -1,6 +1,8 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[setup_gif]: https://media.giphy.com/media/l4A4Sd3hJpQVYqQxD1/giphy.gif "Setup"
+[training_gif]: https://media.giphy.com/media/XeLZWu5XCDvdrIzy3f/giphy.gif "Training"
+[learnt_gif]: https://media.giphy.com/media/RitEEBDSVfgdOJH7XJ/giphy.gif "Learnt"
 
 # Project 1: Navigation
 
@@ -8,6 +10,8 @@
 
 For this project, I have trained an agent to navigate and collect bananas in a large, square world.  
 Uses Deep Q Networks
+
+[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
 ![Trained Agent][image1]
 
