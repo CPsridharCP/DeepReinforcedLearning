@@ -2,7 +2,7 @@
 # Project 1: Navigation
 
 ### My Outputs
-#### ----------------------Setup ------------------------------------- Learning -------------------------------------Trained Agent-----------
+#### Setup --> Learning --> Trained Agent
 [setup_gif]: https://media.giphy.com/media/l4A4Sd3hJpQVYqQxD1/giphy.gif "Setup"
 [training_gif]: https://media.giphy.com/media/XeLZWu5XCDvdrIzy3f/giphy.gif "Training"
 [learnt_gif]: https://media.giphy.com/media/RitEEBDSVfgdOJH7XJ/giphy.gif "Learnt"
