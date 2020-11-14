@@ -10,6 +10,21 @@ State Size, Action Size, #of Agents = 33, 4, 20
 ### Goal
 The environment is considered solved, when the average (over 100 episodes) of those average scores (all 20 agents) is at least +30.
 
+### Actor Critic Method
+We have two Neural Nets one called Actor and one called Critic working together to learn weights/parameters to solve this environment. 
+
+##### Actor
+Policy Based
+Maps states -> actions
+[In] 33 -> [Out] 4
+
+##### Critic
+Value Based
+Maps state, action pairs -> Q-values
+[In] 33, 4 -> [Out] 1
+
+More details on Network Layers can be found in the report.
+
 ### Getting Started
 1. Clone the DRL Nanodegree learning repo : [click here](https://github.com/udacity/deep-reinforcement-learning#dependencies) and follow  instructions in readme to install/create conda environment and dependencies.
 
