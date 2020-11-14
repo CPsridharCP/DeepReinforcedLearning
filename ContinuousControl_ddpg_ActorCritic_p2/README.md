@@ -55,4 +55,6 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 
 3. Place the file in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
-
+### To run the agent
+Navigate to the directory Continuous_Control.ipynb and start a Jupyter Notebook
+(The last two blocks can be used to test the agent after all the imports from the first two blocks are executed. This wasy you can skip training and just obseve how this agent works.)
