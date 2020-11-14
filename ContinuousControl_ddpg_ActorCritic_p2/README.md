@@ -1,4 +1,13 @@
+[//]: # (Image References)
 # Continuous Control with Reinforcement Learning
+
+#### Trained - End
+[trained_gif]: https://media.giphy.com/media/CDh594KmpQ6CUFO6K8/giphy.gif "Trained" 
+![Trained][trained_gif]
+
+#### Untrained - Start
+[untrained_gif]: https://media.giphy.com/media/tbFxBIwRUp3GlXGkZr/giphy.gif "Untrained"
+![Untrained][untrained_gif]
 
 ### Introduction
 This project solves for actuation of a 2 degree of freedom robotic arm to have the end actuator reach the goal position. Implemented using DDPG (Deep Deterministic Policy Gradient) algorithm. This is a model free learning method, is pretty cool and easily portable across differnet applications. 
