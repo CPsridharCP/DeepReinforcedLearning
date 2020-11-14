@@ -1,5 +1,8 @@
 # Continuous Control with Reinforcement Learning
 
+### Introduction
+This project solves for actuation of a 2 degree of freedom robotic arm to have the end actuator reach the goal position. Implemented using DDPG (Deep Deterministic Policy Gradient) algorithm. This is a model free learning method, is pretty cool and easily portable across differnet applications. 
+
 ### The Environment
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
 
