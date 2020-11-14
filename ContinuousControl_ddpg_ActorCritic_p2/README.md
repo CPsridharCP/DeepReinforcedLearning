@@ -1,4 +1,4 @@
-# Continuous Control with Reinforcement Leanring
+# Continuous Control with Reinforcement Learning
 
 ### The Environment
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
@@ -35,6 +35,6 @@ Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
-Then, place the file in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+3. Place the file in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
 
