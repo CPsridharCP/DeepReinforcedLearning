@@ -24,3 +24,13 @@ Env: Get the robotic arm to follow the moving sphere
 ![Untrained][untrained_gif]
 
 https://gph.is/g/Z866Pbb
+
+## Project 3
+Collaboration and Competition 
+
+MADDPG - Multi Agent Deep Deterministic Policy Gradient
+
+Env: Tennis - Get two agents to learn to play tennis by playing againt each other
+#### Pre Training --> Post Training
+![](https://media.giphy.com/media/Q4fut2cCiHnxBISXqQ/giphy.gif)
+![](https://media.giphy.com/media/RTbDwVdJddTIXxK7WR/giphy.gif)
